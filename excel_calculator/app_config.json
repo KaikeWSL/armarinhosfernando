@@ -1,0 +1,18 @@
+{
+    "app_info": {
+        "name": "Sistema de Cálculo Excel Profissional",
+        "version": "1.0.0",
+        "build": "001",
+        "author": "Mega Systems",
+        "description": "Sistema profissional para processamento de planilhas Excel"
+    },
+    "update_settings": {
+        "check_on_startup": true,
+        "auto_download": false,
+        "update_channel": "stable",
+        "server_url": "https://github.com/seu-usuario/excel-calculator/releases",
+        "api_url": "https://api.github.com/repos/seu-usuario/excel-calculator/releases/latest"
+    },
+    "last_check": null,
+    "check_interval_hours": 24
+}
